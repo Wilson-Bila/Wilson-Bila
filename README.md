@@ -1,7 +1,7 @@
 ## Hi, I am Wilson Bila, a Fullstack Web Developer and technology enthusiast.
 
 ## Attending the third year of Information Systems.
-## From Maputo, Moçambique
+## From Maputo, Mozambique
 ## My Skills:
 <div style="display: inline_block"><br>
   <img align="center" alt="Wilson-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
