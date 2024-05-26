@@ -1,9 +1,10 @@
 ## Hi, I am Wilson Bila, a Fullstack Web Developer and technology enthusiast.
 
 ## Attending the third year of Information Systems.
-## From Maputo, Mozambique
-## My Skills:
+## From Maputo, Mozambique.
+## 
 <div style="display: inline_block"><br>
+  <h1>My Skills:</h1>
   <img align="center" alt="Wilson-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Wilson-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Wilson-Hibernate" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-plain.svg">
