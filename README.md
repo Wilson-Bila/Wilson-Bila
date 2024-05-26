@@ -1,5 +1,4 @@
-## Hi, I am Wilson Bila, a Fullstack Web Developer and technology enthusiast.
-
+## Hi, I am Wilson Bila, a Web Developer and technology enthusiast.
 ## Attending the third year of Information Systems.
 ## From Maputo, Mozambique.
 ## 
