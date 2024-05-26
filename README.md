@@ -1,4 +1,4 @@
-## Hi, I am Wilson Bila, a Web Developer and technology enthusiast.
+## Hi, I am Wilson Bila, a Web Developer.
 ## Attending the third year of Information Systems.
 ## From Maputo, Mozambique.
 ## 
