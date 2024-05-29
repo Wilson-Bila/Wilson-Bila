@@ -14,7 +14,9 @@
   <img align="center" alt="Wilson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
-  ##
+  <h1>Most Used Languages:</h1> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wilson-Bila&layout=compact&theme=radical)](https://github.com/Wilson-Bila)
  
 <div> 
   <a href="https://www.instagram.com/wilson.bila_?igsh=OGQ5ZDc2ODk2ZA==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
