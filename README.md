@@ -1,5 +1,5 @@
-## Hi, I am Wilson Bila, a Software Developer.
-## Attending the third year of Information Systems.
+## Hi, I am Wilson Bila, a Fullstack Software Developer.
+
 ## From Maputo, Mozambique.
 ## 
 <div style="display: inline_block"><br>
