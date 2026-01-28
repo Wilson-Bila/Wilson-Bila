@@ -1,4 +1,4 @@
-## Hi, I am Wilson Bila, a Fullstack Software Developer.
+## Hi, I am Wilson Bila, a Software Developer.
 
 ## From Maputo, Mozambique.
 ## 
@@ -14,6 +14,7 @@
   <img align="center" alt="Wilson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Wilson-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg">
   <img align="center" alt="Wilson-POST" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
+  <img align="center" alt="Wilson-POST" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
   
   <h1>Most Used Languages:</h1> 
@@ -24,5 +25,6 @@
   <a href = "mailto:wylsonbila@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wilson-bila-b107b228b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
 
 
